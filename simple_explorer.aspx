@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple file viewer</title>
+    <title>Simple explorer</title>
 </head>
 <body>	
 	<% 
